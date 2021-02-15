@@ -1,0 +1,10 @@
+.container {
+  padding: 5px;
+  margin: auto;
+}
+.container h1 {
+  font-family: Pacifico;
+}
+.container h3 {
+  font-family: "Open Sans";
+}
