@@ -54,7 +54,7 @@ class Hero extends Component{
               _hover={{
                 bg: 'green.500',
               }}
-              onClick={() => window.location.href = "https://github.com/iamaseem/iamaseem.github.io/raw/master/aseemcvupdated.pdf"}
+              onClick={() => window.location.href = "https://github.com/iamaseem/iamaseem.github.io/raw/master/aseemcvjoupdated.pdf"}
               >
               The C.V.
             </Button>
